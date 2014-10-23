@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+
+    <modules>
+        <Ip_NumericSort>
+            <version>0.1.0</version>
+        </Ip_NumericSort>
+    </modules>
+
+    <global>
+        <blocks>
+            <catalog>
+                <rewrite>
+                    <product_list>Ip_NumericSort_Block_Product_List</product_list>
+                </rewrite>
+            </catalog>
+        </blocks>
+    </global>
+
+</config>
